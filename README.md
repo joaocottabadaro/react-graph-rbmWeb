@@ -1,2 +1,2 @@
-# react-graph-rbmWeb
+# react-chart-js
 Created with CodeSandbox
